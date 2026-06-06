@@ -1,0 +1,21 @@
+/*------------------------- For blog page------------------ */
+
+.blogContainer {
+  margin: 88px;
+}
+
+.blogItem {
+  margin: 20px;
+  font-family: "Fira Sans", sans-serif;
+}
+
+
+h1 {
+  font-family: "Fira Sans", sans-serif;
+  margin: 23px;
+}
+
+
+p {
+  font-family: "Source Code Pro", monospace;
+}

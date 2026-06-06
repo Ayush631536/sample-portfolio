@@ -1,0 +1,50 @@
+/*------------ For intro page -------------- */
+
+.intro{
+  margin: 88px;
+}
+
+.intro h2 {
+  font-family: "Fira Sans", sans-serif;
+  margin: 12px;
+}
+
+.intro p {
+  font-family: "Source Code Pro", monospace;
+  margin: 12px;
+}
+
+
+.skillsContainer {
+  padding: 12px;
+}
+
+
+.skillIteam {
+  display: flex;
+  align-items: center;
+  margin-top: 8px;
+  font-family: "Source Code Pro", monospace;
+  font-weight: 900;
+}
+
+.skill {
+  width: 215px;
+  height: 6px;
+  background-color: red;
+  border-radius: 8px;
+}
+
+.hundered {
+  width: 265px;
+}
+
+.fifty {
+  width: 125px;
+  background-color: orange;
+}
+
+.t5 {
+  width: 75px;
+  background-color: blue;
+}
